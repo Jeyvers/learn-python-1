@@ -1,0 +1,6 @@
+> Programming Language
+#### How python (py) works?
+>> source code (.py) -> (compiler -> byte code (.pyc) -> virtual machine) interpreter -> output
+
+#### Why python?
+>> is everywhere for everything
