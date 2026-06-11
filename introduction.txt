@@ -4,3 +4,22 @@
 
 #### Why python?
 >> is everywhere for everything
+
+ `print("Hello, World!")`
+of course -- it's necessary when learning a new language
+eh well, don't judge me
+
+
+###### Variables
+ we know what variables are.
+
+
+###### Data Types
+- will there be anything new? eh well, usuals: int, string, boolean, float, list (array), set, tuple,. dict (object), nonetype?
+
+###### Manipulations
+`str() === .toString()`
+`string.count(match) === var.split(match).length-1 ` 
+`replace("match", "newMatch") === var.split("match").join("newMatch")`
+`f strings are :   f"{user} is here {come}" === `${user} is here ${come}``
+ `"ha" * 30` string multiplier -- interesting.
